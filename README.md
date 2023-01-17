@@ -2,8 +2,7 @@
 ## Olá pessoal 👋
 
 <! --
-**camilafernanda2/camilafernanda2** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
-
+**Karolaine** é um repositório ✨ _especial_.
 Aqui estão algumas idéias para você começar:
 
 - 🔭 Atualmente estou trabalhando em ...
